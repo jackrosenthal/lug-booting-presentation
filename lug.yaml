@@ -2,7 +2,7 @@ Title: Booting Linux
 Description: >
     How Linux boots, everything from the Power On Self Test to your desktop
 Date: 2017-02-23
-Thumbnail: graphics/happymac.png
+Thumbnail: graphics/thumbnail.jpg
 Files:
     SlidesPDF: booting.pdf
     LaTeX: booting.tex
