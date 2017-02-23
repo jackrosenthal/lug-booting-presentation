@@ -4,18 +4,7 @@
 \author{Jack Rosenthal}
 \institute{Mines Linux Users Group}
 
-\usepackage{etoolbox}
-
-\makeatletter
-\patchcmd{\beamer@sectionintoc}{\vskip1.5em}{\vskip0.5em}{}{}
-\makeatother
-
 \begin{document}
-
-\begin{frame}{Table of contents}
-    \setbeamertemplate{section in toc}[sections numbered]
-    \tableofcontents[hideallsubsections]
-\end{frame}
 
 \section{Master Boot Record}
 
